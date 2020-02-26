@@ -1,2 +1,9 @@
 # Cheat-Sheet-For-CP
-Basic methods that are used in solving a competitive programming challenge 
+- [Java](README.md#L7)
+  - Collections
+- Cpp
+  - Vector
+  
+## Java
+
+## Cpp
