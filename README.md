@@ -1,9 +1,12 @@
 # Cheat-Sheet-For-CP
-- [Java](README.md#L7)
-  - Collections
-- Cpp
+- [Java](README.md#java)
+  - [Collections](README.md#collections)
+- [C++](README.md#c++)
   - Vector
   
-## Java
+Java
+=======
+  - ### Collections
 
-## Cpp
+C++
+=======
