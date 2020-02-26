@@ -2,11 +2,12 @@
 - [Java](README.md#java)
   - [Collections](README.md#collections)
 - [C++](README.md#c++)
-  - Vector
+  - [Vector](README.md#vector)
   
 Java
 =======
-  - ### Collections
+  ### Collections
 
 C++
 =======
+  ### Vector
