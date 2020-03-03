@@ -6,8 +6,14 @@
   
 Java
 =======
-  ### Collections
+  ## Collections
 
 C++
 =======
-  ### Vector
+  ## Vector
+  
+  ### Methods
+  
+  ##### To get the size of the vector
+    vector<int> v;
+    cout<<v.size();
